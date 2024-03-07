@@ -1,3 +1,4 @@
+using Takács_Krisztián_backend2.Models;
 
 namespace Takács_Krisztián_backend2
 {
@@ -10,6 +11,13 @@ namespace Takács_Krisztián_backend2
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddDbContext<EuroskillsContext>();
+
+            builder.Services.AddCors(c => {
+                c.AddPolicy("AllowOrigin",
+                options =>
+                options.AllowAnyOrigin().AllowAnyMethod()
+                .AllowAnyHeader());});
 
             var app = builder.Build();
 
@@ -23,6 +31,9 @@ namespace Takács_Krisztián_backend2
 
             app.UseAuthorization();
 
+            app.UseCors(options =>
+            options.AllowAnyOrigin().AllowAnyMethod()
+            .AllowAnyHeader());
 
             app.MapControllers();
 

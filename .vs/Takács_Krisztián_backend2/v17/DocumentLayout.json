@@ -1,12 +1,153 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\models\\orszag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|solutionrelative:models\\orszag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|c:\\users\\profo\\source\\repos\\tak\u00E1cs_kriszti\u00E1n_backend2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|c:\\users\\profo\\source\\repos\\tak\u00E1cs_kriszti\u00E1n_backend2\\controllers\\euskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|solutionrelative:controllers\\euskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\models\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|solutionrelative:models\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|solutionrelative:dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|solutionrelative:extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\models\\szakma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|solutionrelative:models\\szakma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\tak\u00E1cs_kriszti\u00E1n_backend2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE6D0689-FDA2-4B7F-A890-7EF1E7CD12A2}|Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj|solutionrelative:tak\u00E1cs_kriszti\u00E1n_backend2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T07:27:20.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EuSkillController.cs",
+              "DocumentMoniker": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Controllers\\EuSkillController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EuSkillController.cs",
+              "ToolTip": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Controllers\\EuSkillController.cs",
+              "RelativeToolTip": "Controllers\\EuSkillController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAqwD4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:17:11.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Models\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "Models\\Versenyzo.cs",
+              "ToolTip": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Models\\Versenyzo.cs",
+              "RelativeToolTip": "Models\\Versenyzo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:54:14.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dtos.cs",
+              "DocumentMoniker": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Dtos.cs",
+              "RelativeDocumentMoniker": "Dtos.cs",
+              "ToolTip": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Dtos.cs",
+              "RelativeToolTip": "Dtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:52:24.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Szakma.cs",
+              "DocumentMoniker": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Models\\Szakma.cs",
+              "RelativeDocumentMoniker": "Models\\Szakma.cs",
+              "ToolTip": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Models\\Szakma.cs",
+              "RelativeToolTip": "Models\\Szakma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:54:13.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orszag.cs",
+              "DocumentMoniker": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Models\\Orszag.cs",
+              "RelativeDocumentMoniker": "Models\\Orszag.cs",
+              "ToolTip": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Models\\Orszag.cs",
+              "RelativeToolTip": "Models\\Orszag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:54:10.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Extensions.cs",
+              "RelativeDocumentMoniker": "Extensions.cs",
+              "ToolTip": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Extensions.cs",
+              "RelativeToolTip": "Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:52:08.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tak\u00E1cs_Kriszti\u00E1n_backend2",
+              "DocumentMoniker": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj",
+              "RelativeDocumentMoniker": "Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj",
+              "ToolTip": "C:\\Users\\profo\\source\\repos\\Tak\u00E1cs_Kriszti\u00E1n_backend2\\Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj",
+              "RelativeToolTip": "Tak\u00E1cs_Kriszti\u00E1n_backend2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-29T09:51:56.757Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

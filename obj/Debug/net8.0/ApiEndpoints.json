@@ -1,0 +1,69 @@
+[
+  {
+    "ContainingType": "Tak\u00E1cs_Kriszti\u00E1n_backend2.Controllers.EuSkillController",
+    "Method": "Post",
+    "RelativePath": "api/EuSkill/addVersenyzo/{UID}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UID",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "versenyzo",
+        "Type": "Tak\u00E1cs_Kriszti\u00E1n_backend2.CreateVersenyzoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Tak\u00E1cs_Kriszti\u00E1n_backend2.VersenyzoDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Tak\u00E1cs_Kriszti\u00E1n_backend2.Controllers.EuSkillController",
+    "Method": "GetById",
+    "RelativePath": "api/EuSkill/getVersenyzo/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tak\u00E1cs_Kriszti\u00E1n_backend2.Controllers.EuSkillController",
+    "Method": "GetVersenyzok",
+    "RelativePath": "api/EuSkill/getVersenyzoK",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tak\u00E1cs_Kriszti\u00E1n_backend2.Controllers.EuSkillController",
+    "Method": "GetOrszagok",
+    "RelativePath": "api/EuSkill/osszesOrszagSzama",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
